@@ -1,0 +1,102 @@
+>>>>> BASE LINE <<<<
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ZERO-COST HASH
+===== TEST INFO =====
+Max of ip-port combinations:	967740000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	134217728
+Packet size:	20
+Packet amount:	16000000
+Pkt set size:	320000000
+=====================
+
+Try 0: [ticks: 3861394200] 120.000000
+Hash table size was [0] 134217728
+Try 1: [ticks: 3807275964] 118.000000
+Hash table size was [0] 134217728
+Try 2: [ticks: 3798055472] 118.000000
+Hash table size was [0] 134217728
+Try 3: [ticks: 3820742571] 119.000000
+Hash table size was [0] 134217728
+Try 4: [ticks: 3823036153] 119.000000
+Hash table size was [0] 134217728
+Try 5: [ticks: 3847330036] 120.000000
+Hash table size was [0] 134217728
+Try 6: [ticks: 3833760996] 119.000000
+Hash table size was [0] 134217728
+Try 7: [ticks: 3817148108] 119.000000
+Hash table size was [0] 134217728
+Cycles per packet: 119.0 [~0.71]
+Processing speed on 2.4 GHz: 20168.07 Kpps
+Processing speed on 3.2 GHz: 26890.76 Kpps
+Successful attempts: 8 out of 8
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ZERO-COST HASH - NO check sums
+===== TEST INFO =====
+Max of ip-port combinations:	967740000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	134217728
+Packet size:	20
+Packet amount:	16000000
+Pkt set size:	320000000
+=====================
+
+Try 0: [ticks: 2621019733] 81.000000
+Hash table size was [0] 134217728
+Try 1: [ticks: 2655728212] 82.000000
+Hash table size was [0] 134217728
+Try 2: [ticks: 2630666408] 82.000000
+Hash table size was [0] 134217728
+Try 3: [ticks: 2641042388] 82.000000
+Hash table size was [0] 134217728
+Try 4: [ticks: 2661177026] 83.000000
+Hash table size was [0] 134217728
+Try 5: [ticks: 2698829569] 84.000000
+Hash table size was [0] 134217728
+Try 6: [ticks: 2629547020] 82.000000
+Hash table size was [0] 134217728
+Try 7: [ticks: 2574525576] 80.000000
+Hash table size was [0] 134217728
+Cycles per packet: 82.0 [~1.12]
+Processing speed on 2.4 GHz: 29268.29 Kpps
+Processing speed on 3.2 GHz: 39024.39 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ZERO-COST HASH - NO check sums - NO time stamps
+===== TEST INFO =====
+Max of ip-port combinations:	967740000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	134217728
+Packet size:	20
+Packet amount:	16000000
+Pkt set size:	320000000
+=====================
+
+Try 0: [ticks: 1287344898] 40.000000
+Hash table size was [0] 134217728
+Try 1: [ticks: 1328865088] 41.000000
+Hash table size was [0] 134217728
+Try 2: [ticks: 1292390639] 40.000000
+Hash table size was [0] 134217728
+Try 3: [ticks: 1307596131] 40.000000
+Hash table size was [0] 134217728
+Try 4: [ticks: 1333339569] 41.000000
+Hash table size was [0] 134217728
+Try 5: [ticks: 1317463202] 41.000000
+Hash table size was [0] 134217728
+Try 6: [ticks: 1327934920] 41.000000
+Hash table size was [0] 134217728
+Try 7: [ticks: 1324854156] 41.000000
+Hash table size was [0] 134217728
+Cycles per packet: 40.6 [~0.48]
+Processing speed on 2.4 GHz: 59076.92 Kpps
+Processing speed on 3.2 GHz: 78769.23 Kpps
+Successful attempts: 8 out of 8
+
