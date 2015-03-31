@@ -1,0 +1,447 @@
+>>>>>>>>>> TEST: nat_lookup_tree_array 1000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	32
+Packet size:	20
+Packet amount:	1000
+Pkt set size:	20000
+=====================
+
+Try 0: [ticks: 734328] 367.000000
+Tree max depth is 19
+Tree size was: 32000
+Try 1: [ticks: 699312] 349.000000
+Tree max depth is 22
+Tree size was: 32000
+Try 2: [ticks: 727461] 363.000000
+Tree max depth is 23
+Tree size was: 32000
+Try 3: [ticks: 709113] 354.000000
+Tree max depth is 22
+Tree size was: 32000
+Try 4: [ticks: 785312] 392.000000
+Tree max depth is 21
+Tree size was: 32000
+Try 5: [ticks: 693441] 346.000000
+Tree max depth is 23
+Tree size was: 32000
+Try 6: [ticks: 678318] 339.000000
+Tree max depth is 17
+Tree size was: 32000
+Try 7: [ticks: 1000020] 500.000000
+Tree max depth is 21
+Tree size was: 32000
+Cycles per packet: 376.2 [~49.20]
+Processing speed on 2.4 GHz: 6378.74 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array 10000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	32
+Packet size:	20
+Packet amount:	10000
+Pkt set size:	200000
+=====================
+
+Try 0: [ticks: 9336309] 466.000000
+Tree max depth is 33
+Tree size was: 319936
+Try 1: [ticks: 9107253] 455.000000
+Tree max depth is 36
+Tree size was: 319968
+Try 2: [ticks: 9766056] 488.000000
+Tree max depth is 30
+Tree size was: 319968
+Try 3: [ticks: 8654940] 432.000000
+Tree max depth is 31
+Tree size was: 319936
+Try 4: [ticks: 9424042] 471.000000
+Tree max depth is 32
+Tree size was: 319968
+Try 5: [ticks: 8836686] 441.000000
+Tree max depth is 30
+Tree size was: 319872
+Try 6: [ticks: 8743119] 437.000000
+Tree max depth is 31
+Tree size was: 319968
+Try 7: [ticks: 9899908] 494.000000
+Tree max depth is 31
+Tree size was: 320000
+Cycles per packet: 460.5 [~21.78]
+Processing speed on 2.4 GHz: 5211.73 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array 100000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	32
+Packet size:	20
+Packet amount:	100000
+Pkt set size:	2000000
+=====================
+
+Try 0: [ticks: 147206315] 736.000000
+Tree max depth is 41
+Tree size was: 3197888
+Try 1: [ticks: 133396146] 666.000000
+Tree max depth is 40
+Tree size was: 3197312
+Try 2: [ticks: 130866606] 654.000000
+Tree max depth is 43
+Tree size was: 3197248
+Try 3: [ticks: 127679097] 638.000000
+Tree max depth is 40
+Tree size was: 3197376
+Try 4: [ticks: 128859367] 644.000000
+Tree max depth is 41
+Tree size was: 3197504
+Try 5: [ticks: 127013550] 635.000000
+Tree max depth is 39
+Tree size was: 3197088
+Try 6: [ticks: 128682924] 643.000000
+Tree max depth is 42
+Tree size was: 3197280
+Try 7: [ticks: 129909648] 649.000000
+Tree max depth is 42
+Tree size was: 3197312
+Cycles per packet: 658.1 [~30.81]
+Processing speed on 2.4 GHz: 3646.72 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array 500000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	32
+Packet size:	20
+Packet amount:	500000
+Pkt set size:	10000000
+=====================
+
+Try 0: [ticks: 1061291973] 1061.000000
+Tree max depth is 47
+Tree size was: 15936512
+Try 1: [ticks: 1091907589] 1091.000000
+Tree max depth is 52
+Tree size was: 15935200
+Try 2: [ticks: 1082990205] 1082.000000
+Tree max depth is 49
+Tree size was: 15934720
+Try 3: [ticks: 1173959631] 1173.000000
+Tree max depth is 47
+Tree size was: 15935456
+Try 4: [ticks: 1092979422] 1092.000000
+Tree max depth is 49
+Tree size was: 15931552
+Try 5: [ticks: 1041770328] 1041.000000
+Tree max depth is 44
+Tree size was: 15937344
+Try 6: [ticks: 1087950441] 1087.000000
+Tree max depth is 47
+Tree size was: 15932928
+Try 7: [ticks: 1071084681] 1071.000000
+Tree max depth is 47
+Tree size was: 15933344
+Cycles per packet: 1087.2 [~36.24]
+Processing speed on 2.4 GHz: 2207.40 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array 1000000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	32
+Packet size:	20
+Packet amount:	1000000
+Pkt set size:	20000000
+=====================
+
+Try 0: [ticks: 2605717380] 1302.000000
+Tree max depth is 52
+Tree size was: 27614688
+Try 1: [ticks: 2732389800] 1366.000000
+Tree max depth is 50
+Tree size was: 26328672
+Try 2: [ticks: 3124197716] 1562.000000
+Tree max depth is 54
+Tree size was: 29809440
+Try 3: [ticks: 2839042614] 1419.000000
+Tree max depth is 48
+Tree size was: 27456864
+Try 4: [ticks: 3200714035] 1600.000000
+Tree max depth is 53
+Tree size was: 27505440
+Try 5: [ticks: 2916516184] 1458.000000
+Tree max depth is 49
+Tree size was: 28628768
+Try 6: [ticks: 3013164651] 1506.000000
+Tree max depth is 51
+Tree size was: 27513568
+Try 7: [ticks: 2987981962] 1493.000000
+Tree max depth is 49
+Tree size was: 29005408
+Cycles per packet: 1463.2 [~92.61]
+Processing speed on 2.4 GHz: 1640.18 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array 2000000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	32
+Packet size:	20
+Packet amount:	2000000
+Pkt set size:	40000000
+=====================
+
+Try 0: [ticks: 5860281402] 1465.000000
+Tree max depth is 53
+Tree size was: 34881696
+Try 1: [ticks: 6064642158] 1516.000000
+Tree max depth is 55
+Tree size was: 30669600
+Try 2: [ticks: 6127047057] 1531.000000
+Tree max depth is 54
+Tree size was: 31987232
+Try 3: [ticks: 6173660751] 1543.000000
+Tree max depth is 55
+Tree size was: 34668672
+Try 4: [ticks: 6152330975] 1538.000000
+Tree max depth is 53
+Tree size was: 37374016
+Try 5: [ticks: 6125021601] 1531.000000
+Tree max depth is 54
+Tree size was: 36968480
+Try 6: [ticks: 6236640873] 1559.000000
+Tree max depth is 54
+Tree size was: 35088704
+Try 7: [ticks: 6251917667] 1562.000000
+Tree max depth is 52
+Tree size was: 32810432
+Cycles per packet: 1530.6 [~28.54]
+Processing speed on 2.4 GHz: 1567.99 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array 4000000 <<<<<<<<<<
+>>>>>>>>>> TEST: nat_lookup_tree_array 8000000 <<<<<<<<<<
+>>>>>>>>>> TEST: nat_lookup_tree_array 16000000 <<<<<<<<<<
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 1000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	40
+Packet size:	20
+Packet amount:	1000
+Pkt set size:	20000
+=====================
+
+Try 0: [ticks: 866228] 433.000000
+Tree max depth is 12
+Tree size was: 40000
+Try 1: [ticks: 717237] 358.000000
+Tree max depth is 12
+Tree size was: 40000
+Try 2: [ticks: 705897] 352.000000
+Tree max depth is 12
+Tree size was: 40000
+Try 3: [ticks: 775856] 387.000000
+Tree max depth is 12
+Tree size was: 40000
+Try 4: [ticks: 694698] 347.000000
+Tree max depth is 12
+Tree size was: 40000
+Try 5: [ticks: 699420] 349.000000
+Tree max depth is 13
+Tree size was: 40000
+Try 6: [ticks: 689220] 344.000000
+Tree max depth is 13
+Tree size was: 40000
+Try 7: [ticks: 696363] 348.000000
+Tree max depth is 12
+Tree size was: 40000
+Cycles per packet: 364.8 [~28.80]
+Processing speed on 2.4 GHz: 6579.85 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 10000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	40
+Packet size:	20
+Packet amount:	10000
+Pkt set size:	200000
+=====================
+
+Try 0: [ticks: 8885746] 444.000000
+Tree max depth is 16
+Tree size was: 400000
+Try 1: [ticks: 8363160] 418.000000
+Tree max depth is 16
+Tree size was: 399960
+Try 2: [ticks: 8345481] 417.000000
+Tree max depth is 17
+Tree size was: 399920
+Try 3: [ticks: 8663649] 433.000000
+Tree max depth is 16
+Tree size was: 399920
+Try 4: [ticks: 8573582] 428.000000
+Tree max depth is 17
+Tree size was: 400000
+Try 5: [ticks: 8379462] 418.000000
+Tree max depth is 17
+Tree size was: 399920
+Try 6: [ticks: 8318373] 415.000000
+Tree max depth is 16
+Tree size was: 399960
+Try 7: [ticks: 8594529] 429.000000
+Tree max depth is 16
+Tree size was: 400000
+Cycles per packet: 425.2 [~9.43]
+Processing speed on 2.4 GHz: 5643.74 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 100000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	40
+Packet size:	20
+Packet amount:	100000
+Pkt set size:	2000000
+=====================
+
+Try 0: [ticks: 125853928] 629.000000
+Tree max depth is 20
+Tree size was: 3996640
+Try 1: [ticks: 125770602] 628.000000
+Tree max depth is 20
+Tree size was: 3997160
+Try 2: [ticks: 123039048] 615.000000
+Tree max depth is 21
+Tree size was: 3996440
+Try 3: [ticks: 123525318] 617.000000
+Tree max depth is 20
+Tree size was: 3996480
+Try 4: [ticks: 127760483] 638.000000
+Tree max depth is 20
+Tree size was: 3996880
+Try 5: [ticks: 124755273] 623.000000
+Tree max depth is 20
+Tree size was: 3996480
+Try 6: [ticks: 123557457] 617.000000
+Tree max depth is 20
+Tree size was: 3996600
+Try 7: [ticks: 123226326] 616.000000
+Tree max depth is 20
+Tree size was: 3996880
+Cycles per packet: 622.9 [~7.67]
+Processing speed on 2.4 GHz: 3853.10 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 500000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	40
+Packet size:	20
+Packet amount:	500000
+Pkt set size:	10000000
+=====================
+
+Try 0: [ticks: 1029263214] 1029.000000
+Tree max depth is 23
+Tree size was: 12952960
+Try 1: [ticks: 1048470880] 1048.000000
+Tree max depth is 23
+Tree size was: 13061600
+Try 2: [ticks: 1058461404] 1058.000000
+Tree max depth is 23
+Tree size was: 12903600
+Try 3: [ticks: 1048167102] 1048.000000
+Tree max depth is 23
+Tree size was: 12891200
+Try 4: [ticks: 1057240929] 1057.000000
+Tree max depth is 23
+Tree size was: 13513520
+Try 5: [ticks: 1062599352] 1062.000000
+Tree max depth is 24
+Tree size was: 13320080
+Try 6: [ticks: 1054217604] 1054.000000
+Tree max depth is 23
+Tree size was: 13227880
+Try 7: [ticks: 1065682749] 1065.000000
+Tree max depth is 23
+Tree size was: 13547240
+Cycles per packet: 1052.6 [~10.56]
+Processing speed on 2.4 GHz: 2280.01 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 1000000 <<<<<<<<<<
+===== TEST INFO =====
+Max of ip-port combinations:	63750000
+NAT capacity:	64000000
+NAT entry size:	24
+NAT table size:	1536000000
+Tree node size:	40
+Packet size:	20
+Packet amount:	1000000
+Pkt set size:	20000000
+=====================
+
+Try 0: [ticks: 2495695551] 1247.000000
+Tree max depth is 24
+Tree size was: 15285320
+Try 1: [ticks: 2431895919] 1215.000000
+Tree max depth is 24
+Tree size was: 14469840
+Try 2: [ticks: 2383944824] 1191.000000
+Tree max depth is 24
+Tree size was: 15601720
+Try 3: [ticks: 2617050541] 1308.000000
+Tree max depth is 24
+Tree size was: 15732000
+Try 4: [ticks: 2403797697] 1201.000000
+Tree max depth is 24
+Tree size was: 16220320
+Try 5: [ticks: 2418394005] 1209.000000
+Tree max depth is 24
+Tree size was: 16123320
+Try 6: [ticks: 2454694842] 1227.000000
+Tree max depth is 24
+Tree size was: 16370560
+Try 7: [ticks: 2451727332] 1225.000000
+Tree max depth is 25
+Tree size was: 16485080
+Cycles per packet: 1227.9 [~34.28]
+Processing speed on 2.4 GHz: 1954.60 Kpps
+Successful attempts: 8 out of 8
+
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 2000000 <<<<<<<<<<
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 4000000 <<<<<<<<<<
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 8000000 <<<<<<<<<<
+>>>>>>>>>> TEST: nat_lookup_tree_array_rb_tree 16000000 <<<<<<<<<<
