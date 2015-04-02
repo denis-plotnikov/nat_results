@@ -1,0 +1,111 @@
+>>>>>>>>>> TEST: 10  <<<<<<<<<<
+Cycles per packet: 136.8 [~2.86]
+Processing speed on 2.4 GHz: 17550.27 Kpps
+
+>>>>>>>>>> TEST: 50  <<<<<<<<<<
+Cycles per packet: 164.6 [~2.83]
+Processing speed on 2.4 GHz: 14578.59 Kpps
+
+>>>>>>>>>> TEST: 100  <<<<<<<<<<
+Cycles per packet: 207.6 [~2.50]
+Processing speed on 2.4 GHz: 11559.30 Kpps
+
+>>>>>>>>>> TEST: 200  <<<<<<<<<<
+Cycles per packet: 279.1 [~2.32]
+Processing speed on 2.4 GHz: 8598.30 Kpps
+
+>>>>>>>>>> TEST: 300  <<<<<<<<<<
+Cycles per packet: 350.5 [~2.06]
+Processing speed on 2.4 GHz: 6847.36 Kpps
+
+>>>>>>>>>> TEST: 400  <<<<<<<<<<
+Cycles per packet: 422.2 [~4.35]
+Processing speed on 2.4 GHz: 5683.84 Kpps
+
+>>>>>>>>>> TEST: 500  <<<<<<<<<<
+Cycles per packet: 493.0 [~4.06]
+Processing speed on 2.4 GHz: 4868.15 Kpps
+
+>>>>>>>>>> TEST: 600  <<<<<<<<<<
+Cycles per packet: 563.4 [~2.55]
+Processing speed on 2.4 GHz: 4260.04 Kpps
+
+>>>>>>>>>> TEST: 700  <<<<<<<<<<
+Cycles per packet: 636.0 [~3.91]
+Processing speed on 2.4 GHz: 3773.58 Kpps
+
+>>>>>>>>>> TEST: 800  <<<<<<<<<<
+Cycles per packet: 712.4 [~3.74]
+Processing speed on 2.4 GHz: 3369.01 Kpps
+
+>>>>>>>>>> TEST: 900  <<<<<<<<<<
+Cycles per packet: 791.4 [~41.82]
+Processing speed on 2.4 GHz: 3032.70 Kpps
+
+>>>>>>>>>> TEST: 1000  <<<<<<<<<<
+Cycles per packet: 849.6 [~4.09]
+Processing speed on 2.4 GHz: 2824.78 Kpps
+
+>>>>>>>>>> TEST: 1100  <<<<<<<<<<
+Cycles per packet: 936.6 [~41.79]
+Processing speed on 2.4 GHz: 2562.39 Kpps
+
+>>>>>>>>>> TEST: 1200  <<<<<<<<<<
+Cycles per packet: 993.0 [~5.20]
+Processing speed on 2.4 GHz: 2416.92 Kpps
+
+>>>>>>>>>> TEST: 1300  <<<<<<<<<<
+Cycles per packet: 1061.8 [~3.73]
+Processing speed on 2.4 GHz: 2260.42 Kpps
+
+>>>>>>>>>> TEST: 1400  <<<<<<<<<<
+Cycles per packet: 1139.8 [~12.90]
+Processing speed on 2.4 GHz: 2105.72 Kpps
+
+>>>>>>>>>> TEST: 1500  <<<<<<<<<<
+Cycles per packet: 1208.6 [~1.65]
+Processing speed on 2.4 GHz: 1985.73 Kpps
+
+>>>>>>>>>> TEST: 1600  <<<<<<<<<<
+Cycles per packet: 1279.8 [~9.39]
+Processing speed on 2.4 GHz: 1875.37 Kpps
+
+>>>>>>>>>> TEST: 2000  <<<<<<<<<<
+Cycles per packet: 1561.2 [~4.24]
+Processing speed on 2.4 GHz: 1537.23 Kpps
+
+>>>>>>>>>> TEST: 4000  <<<<<<<<<<
+Cycles per packet: 3006.8 [~42.37]
+Processing speed on 2.4 GHz: 798.20 Kpps
+
+>>>>>>>>>> TEST: 6000  <<<<<<<<<<
+Cycles per packet: 4444.0 [~76.88]
+Processing speed on 2.4 GHz: 540.05 Kpps
+
+>>>>>>>>>> TEST: 8000  <<<<<<<<<<
+Cycles per packet: 5861.4 [~10.29]
+Processing speed on 2.4 GHz: 409.46 Kpps
+
+>>>>>>>>>> TEST: 10000  <<<<<<<<<<
+Cycles per packet: 7338.8 [~108.40]
+Processing speed on 2.4 GHz: 327.03 Kpps
+
+>>>>>>>>>> TEST: 20000  <<<<<<<<<<
+Cycles per packet: 15852.0 [~1253.33]
+Processing speed on 2.4 GHz: 151.40 Kpps
+
+>>>>>>>>>> TEST: 30000  <<<<<<<<<<
+Cycles per packet: 22741.6 [~470.90]
+Processing speed on 2.4 GHz: 105.53 Kpps
+
+>>>>>>>>>> TEST: 40000  <<<<<<<<<<
+Cycles per packet: 31142.4 [~3278.19]
+Processing speed on 2.4 GHz: 77.07 Kpps
+
+>>>>>>>>>> TEST: 50000  <<<<<<<<<<
+Cycles per packet: 40121.2 [~3706.67]
+Processing speed on 2.4 GHz: 59.82 Kpps
+
+>>>>>>>>>> TEST: 100000  <<<<<<<<<<
+Cycles per packet: 80154.4 [~10391.52]
+Processing speed on 2.4 GHz: 29.94 Kpps
