@@ -507,29 +507,7 @@ Packet amount:	1000
 Pkt set size:	20000
 =====================
 
-Try 0: [ticks: 21256029] 10628.000000
-Tree max depth is 25
-Tree size was: 2 * 56000 = 112000
-Try 1: [ticks: 20897562] 10448.000000
-Tree max depth is 22
-Tree size was: 2 * 56000 = 112000
-Try 2: [ticks: 21142632] 10571.000000
-Tree max depth is 23
-Tree size was: 2 * 56000 = 112000
-Try 3: [ticks: 21276714] 10638.000000
-Tree max depth is 22
-Tree size was: 2 * 56000 = 112000
-Try 4: [ticks: 20225067] 10112.000000
-Tree max depth is 24
-Tree size was: 2 * 56000 = 112000
-Try 5: [ticks: 21650568] 10825.000000
-Tree max depth is 21
-Tree size was: 2 * 56000 = 112000
-Try 6: [ticks: 20899533] 10449.000000
-Tree max depth is 23
-Tree size was: 2 * 56000 = 112000
-Try 7: [ticks: 21018513] 10509.000000
-Tree max depth is 22
+
 Tree size was: 2 * 56000 = 112000
 Cycles per packet: 10522.5 [~192.99]
 Processing speed on 2.4 GHz: 228.08 Kpps
@@ -546,29 +524,6 @@ Packet amount:	10000
 Pkt set size:	200000
 =====================
 
-Try 0: [ticks: 2661170979] 133058.000000
-Tree max depth is 30
-Tree size was: 2 * 559832 = 1119664
-Try 1: [ticks: 2661182571] 133059.000000
-Tree max depth is 31
-Tree size was: 2 * 560000 = 1120000
-Try 2: [ticks: 2654096082] 132704.000000
-Tree max depth is 31
-Tree size was: 2 * 560000 = 1120000
-Try 3: [ticks: 2663369551] 133168.000000
-Tree max depth is 30
-Tree size was: 2 * 560000 = 1120000
-Try 4: [ticks: 2702967249] 135148.000000
-Tree max depth is 33
-Tree size was: 2 * 560000 = 1120000
-Try 5: [ticks: 2671509177] 133575.000000
-Tree max depth is 31
-Tree size was: 2 * 560000 = 1120000
-Try 6: [ticks: 2683263405] 134163.000000
-Tree max depth is 31
-Tree size was: 2 * 560000 = 1120000
-Try 7: [ticks: 2670564945] 133528.000000
-Tree max depth is 30
 Tree size was: 2 * 559832 = 1119664
 Cycles per packet: 133550.4 [~731.03]
 Processing speed on 2.4 GHz: 17.97 Kpps
@@ -585,28 +540,7 @@ Packet amount:	100000
 Pkt set size:	2000000
 =====================
 
-Try 0: [ticks: 434769752757] 2173848.000000
-Tree max depth is 39
-Tree size was: 2 * 5595128 = 11190256
-Try 1: [ticks: 858987851685] 4294939.000000
-Tree max depth is 38
-Tree size was: 2 * 5596192 = 11192384
-Try 2: [ticks: 967820711460] 4839103.000000
-Tree max depth is 42
-Tree size was: 2 * 5595408 = 11190816
-Try 3: [ticks: 1025180000898] 5125900.000000
-Tree max depth is 46
-Tree size was: 2 * 5595520 = 11191040
-Try 4: [ticks: 1103863189434] 5519315.000000
-Tree max depth is 39
-Tree size was: 2 * 5594960 = 11189920
-Try 5: [ticks: 1095446046453] 5477230.000000
-Tree max depth is 39
-Tree size was: 2 * 5594176 = 11188352
-Try 6: [ticks: 1039782301047] 5198911.000000
-Tree max depth is 40
-Tree size was: 2 * 5595688 = 11191376
-Try 7: [ticks: 1095648009906] 5478240.000000
+
 Tree max depth is 45
 Tree size was: 2 * 5595520 = 11191040
 Cycles per packet: 3769296.7 [~1149817.65]
