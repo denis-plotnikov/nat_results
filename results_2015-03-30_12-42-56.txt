@@ -231,6 +231,8 @@ Successful attempts: 8 out of 8
 
 >>>>>>>>>> TEST: nat_lookup_base_line 8000000 <<<<<<<<<<
 >>>>>>>>>> TEST: nat_lookup_base_line 16000000 <<<<<<<<<<
+
+
 >>>>>>>>>> TEST: nat_lookup_hash 1000 <<<<<<<<<<
 ===== TEST INFO =====
 Max of ip-port combinations:	967740000
