@@ -1,0 +1,550 @@
+********** TEST: nat_lookup_hash **********
+===== 100000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	100000
+Pkt set size:	2000000
+=====================
+
+Try 0: [ticks: 334272467] 1671.000000
+Hash table size was [99989] 1076141560
+Try 1: [ticks: 52593243] 262.000000
+Hash table size was [99987] 1076141512
+Try 2: [ticks: 52392312] 261.000000
+Hash table size was [99991] 1076141608
+Try 3: [ticks: 52642125] 263.000000
+Hash table size was [99993] 1076141656
+Try 4: [ticks: 52881960] 264.000000
+Hash table size was [99991] 1076141608
+Cycles per packet: 544.2 [~563.40]
+Processing speed on 2.4 GHz: 4410.14 Kpps
+Processing speed on 3.2 GHz: 5880.19 Kpps
+Successful attempts: 5 out of 5
+
+===== 1000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	1000000
+Pkt set size:	20000000
+=====================
+
+Try 0: [ticks: 763974903] 381.000000
+Hash table size was [998945] 1097716504
+Try 1: [ticks: 545832003] 272.000000
+Hash table size was [998928] 1097716096
+Try 2: [ticks: 549758644] 274.000000
+Hash table size was [998940] 1097716384
+Try 3: [ticks: 551756148] 275.000000
+Hash table size was [998962] 1097716912
+Try 4: [ticks: 551204725] 275.000000
+Hash table size was [998966] 1097717008
+Cycles per packet: 295.4 [~42.81]
+Processing speed on 2.4 GHz: 8124.58 Kpps
+Processing speed on 3.2 GHz: 10832.77 Kpps
+Successful attempts: 5 out of 5
+
+===== 2000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	2000000
+Pkt set size:	40000000
+=====================
+
+Try 0: [ticks: 1296869154] 324.000000
+Hash table size was [1995646] 1121637328
+Try 1: [ticks: 1100936316] 275.000000
+Hash table size was [1995778] 1121640496
+Try 2: [ticks: 1097716647] 274.000000
+Hash table size was [1995709] 1121638840
+Try 3: [ticks: 1102955476] 275.000000
+Hash table size was [1995817] 1121641432
+Try 4: [ticks: 1094382698] 273.000000
+Hash table size was [1995790] 1121640784
+Cycles per packet: 284.2 [~19.91]
+Processing speed on 2.4 GHz: 8444.76 Kpps
+Processing speed on 3.2 GHz: 11259.68 Kpps
+Successful attempts: 5 out of 5
+
+===== 4000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	4000000
+Pkt set size:	80000000
+=====================
+
+Try 0: [ticks: 2760328130] 345.000000
+Hash table size was [3983206] 1169338768
+Try 1: [ticks: 2233543448] 279.000000
+Hash table size was [3982948] 1169332576
+Try 2: [ticks: 2200651835] 275.000000
+Hash table size was [3983130] 1169336944
+Try 3: [ticks: 2188656407] 273.000000
+Hash table size was [3983017] 1169334232
+Try 4: [ticks: 2191956417] 273.000000
+Hash table size was [3983094] 1169336080
+Cycles per packet: 289.0 [~28.09]
+Processing speed on 2.4 GHz: 8304.50 Kpps
+Processing speed on 3.2 GHz: 11072.66 Kpps
+Successful attempts: 5 out of 5
+
+===== 8000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	8000000
+Pkt set size:	160000000
+=====================
+
+Try 0: [ticks: 4338573360] 271.000000
+Hash table size was [7932393] 1264119256
+Try 1: [ticks: 4420073844] 276.000000
+Hash table size was [7932584] 1264123840
+Try 2: [ticks: 4424478512] 276.000000
+Hash table size was [7932573] 1264123576
+Try 3: [ticks: 4422041983] 276.000000
+Hash table size was [7932647] 1264125352
+Try 4: [ticks: 4421638912] 276.000000
+Hash table size was [7932543] 1264122856
+Cycles per packet: 275.0 [~2.00]
+Processing speed on 2.4 GHz: 8727.27 Kpps
+Processing speed on 3.2 GHz: 11636.36 Kpps
+Successful attempts: 5 out of 5
+
+===== 16000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	16000000
+Pkt set size:	320000000
+=====================
+
+Try 0: [ticks: 8752402695] 273.000000
+Hash table size was [15731975] 1451309224
+Try 1: [ticks: 9149397670] 285.000000
+Hash table size was [15731882] 1451306992
+Try 2: [ticks: 9256173957] 289.000000
+Hash table size was [15731365] 1451294584
+Try 3: [ticks: 9178887827] 286.000000
+Hash table size was [15731840] 1451305984
+Try 4: [ticks: 9217014219] 288.000000
+Hash table size was [15732129] 1451312920
+Cycles per packet: 284.2 [~5.78]
+Processing speed on 2.4 GHz: 8444.76 Kpps
+Processing speed on 3.2 GHz: 11259.68 Kpps
+Successful attempts: 5 out of 5
+
+===== 32000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	32000000
+Pkt set size:	640000000
+=====================
+
+Try 0: [ticks: 18462315735] 288.000000
+Hash table size was [30941451] 1816336648
+Try 1: [ticks: 21301601670] 332.000000
+Hash table size was [30943133] 1816377016
+Try 2: [ticks: 21207238392] 331.000000
+Hash table size was [30941228] 1816331296
+Try 3: [ticks: 21020059472] 328.000000
+Hash table size was [30939541] 1816290808
+Try 4: [ticks: 20997869049] 328.000000
+Hash table size was [30938890] 1816275184
+Cycles per packet: 321.4 [~16.78]
+Processing speed on 2.4 GHz: 7467.33 Kpps
+Processing speed on 3.2 GHz: 9956.44 Kpps
+Successful attempts: 5 out of 5
+
+********** TEST: nat_lookup_hash_opt **********
+===== 100000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table entry size:	32
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	100000
+Pkt set size:	2000000
+=====================
+
+Try 0: [ticks: 290393637] 1451.000000
+Hash table size was [99994] 1076941632
+Try 1: [ticks: 52451733] 262.000000
+Hash table size was [99992] 1076941568
+Try 2: [ticks: 51721233] 258.000000
+Hash table size was [99993] 1076941600
+Try 3: [ticks: 51420927] 257.000000
+Hash table size was [99981] 1076941216
+Try 4: [ticks: 51652299] 258.000000
+Hash table size was [99983] 1076941280
+Cycles per packet: 497.2 [~476.90]
+Processing speed on 2.4 GHz: 4827.03 Kpps
+Processing speed on 3.2 GHz: 6436.04 Kpps
+Successful attempts: 5 out of 5
+
+===== 1000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table entry size:	32
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	1000000
+Pkt set size:	20000000
+=====================
+
+Try 0: [ticks: 803519797] 401.000000
+Hash table size was [998967] 1105708768
+Try 1: [ticks: 554679054] 277.000000
+Hash table size was [998918] 1105707200
+Try 2: [ticks: 542394426] 271.000000
+Hash table size was [998982] 1105709248
+Try 3: [ticks: 536478882] 268.000000
+Hash table size was [998957] 1105708448
+Try 4: [ticks: 536415453] 268.000000
+Hash table size was [999004] 1105709952
+Cycles per packet: 297.0 [~52.10]
+Processing speed on 2.4 GHz: 8080.81 Kpps
+Processing speed on 3.2 GHz: 10774.41 Kpps
+Successful attempts: 5 out of 5
+
+===== 2000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table entry size:	32
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	2000000
+Pkt set size:	40000000
+=====================
+
+Try 0: [ticks: 1395672684] 348.000000
+Hash table size was [1995837] 1137608608
+Try 1: [ticks: 1093165354] 273.000000
+Hash table size was [1995701] 1137604256
+Try 2: [ticks: 1078276650] 269.000000
+Hash table size was [1995681] 1137603616
+Try 3: [ticks: 1077733433] 269.000000
+Hash table size was [1995822] 1137608128
+Try 4: [ticks: 1078689573] 269.000000
+Hash table size was [1995701] 1137604256
+Cycles per packet: 285.6 [~31.24]
+Processing speed on 2.4 GHz: 8403.36 Kpps
+Processing speed on 3.2 GHz: 11204.48 Kpps
+Successful attempts: 5 out of 5
+
+===== 4000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table entry size:	32
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	4000000
+Pkt set size:	80000000
+=====================
+
+Try 0: [ticks: 2521656369] 315.000000
+Hash table size was [3983251] 1201205856
+Try 1: [ticks: 2189548368] 273.000000
+Hash table size was [3983213] 1201204640
+Try 2: [ticks: 2188916791] 273.000000
+Hash table size was [3982994] 1201197632
+Try 3: [ticks: 2181097056] 272.000000
+Hash table size was [3983251] 1201205856
+Try 4: [ticks: 2176144801] 272.000000
+Hash table size was [3983014] 1201198272
+Cycles per packet: 281.0 [~17.01]
+Processing speed on 2.4 GHz: 8540.93 Kpps
+Processing speed on 3.2 GHz: 11387.90 Kpps
+Successful attempts: 5 out of 5
+
+===== 8000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table entry size:	32
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	8000000
+Pkt set size:	160000000
+=====================
+
+Try 0: [ticks: 4913864829] 307.000000
+Hash table size was [7933069] 1327600032
+Try 1: [ticks: 4456776606] 278.000000
+Hash table size was [7932415] 1327579104
+Try 2: [ticks: 4455321383] 278.000000
+Hash table size was [7932846] 1327592896
+Try 3: [ticks: 4491658674] 280.000000
+Hash table size was [7932406] 1327578816
+Try 4: [ticks: 4462994354] 278.000000
+Hash table size was [7933095] 1327600864
+Cycles per packet: 284.2 [~11.43]
+Processing speed on 2.4 GHz: 8444.76 Kpps
+Processing speed on 3.2 GHz: 11259.68 Kpps
+Successful attempts: 5 out of 5
+
+===== 16000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table entry size:	32
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	16000000
+Pkt set size:	320000000
+=====================
+
+Try 0: [ticks: 9824995098] 307.000000
+Hash table size was [15732237] 1577173408
+Try 1: [ticks: 9331850215] 291.000000
+Hash table size was [15731998] 1577165760
+Try 2: [ticks: 9194453736] 287.000000
+Hash table size was [15731799] 1577159392
+Try 3: [ticks: 9181732176] 286.000000
+Hash table size was [15732756] 1577190016
+Try 4: [ticks: 9164406496] 286.000000
+Hash table size was [15732334] 1577176512
+Cycles per packet: 291.4 [~8.01]
+Processing speed on 2.4 GHz: 8236.10 Kpps
+Processing speed on 3.2 GHz: 10981.47 Kpps
+Successful attempts: 5 out of 5
+
+===== 32000000 =====
+********** TEST: nat_lookup_hash_tree **********
+===== 100000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	100000
+Pkt set size:	2000000
+=====================
+
+Try 0: [ticks: 289440183] 1447.000000
+Hash table size was 1077741224
+Try 1: [ticks: 51769632] 258.000000
+Hash table size was 1077741184
+Try 2: [ticks: 51338898] 256.000000
+Hash table size was 1077741424
+Try 3: [ticks: 51845883] 259.000000
+Hash table size was 1077741304
+Try 4: [ticks: 57384903] 286.000000
+Hash table size was 1077741224
+Cycles per packet: 501.2 [~473.03]
+Processing speed on 2.4 GHz: 4788.51 Kpps
+Processing speed on 3.2 GHz: 6384.68 Kpps
+Successful attempts: 5 out of 5
+
+===== 1000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	1000000
+Pkt set size:	20000000
+=====================
+
+Try 0: [ticks: 762844539] 381.000000
+Hash table size was 1113701264
+Try 1: [ticks: 518792226] 259.000000
+Hash table size was 1113699784
+Try 2: [ticks: 525841410] 262.000000
+Hash table size was 1113699744
+Try 3: [ticks: 519176334] 259.000000
+Hash table size was 1113698184
+Try 4: [ticks: 518262429] 259.000000
+Hash table size was 1113699424
+Cycles per packet: 284.0 [~48.51]
+Processing speed on 2.4 GHz: 8450.70 Kpps
+Processing speed on 3.2 GHz: 11267.61 Kpps
+Successful attempts: 5 out of 5
+
+===== 2000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	2000000
+Pkt set size:	40000000
+=====================
+
+Try 0: [ticks: 1297310595] 324.000000
+Hash table size was 1153575424
+Try 1: [ticks: 1049613573] 262.000000
+Hash table size was 1153573984
+Try 2: [ticks: 1056994470] 264.000000
+Hash table size was 1153570984
+Try 3: [ticks: 1049448534] 262.000000
+Hash table size was 1153574864
+Try 4: [ticks: 1050392805] 262.000000
+Hash table size was 1153569984
+Cycles per packet: 274.8 [~24.61]
+Processing speed on 2.4 GHz: 8733.62 Kpps
+Processing speed on 3.2 GHz: 11644.83 Kpps
+Successful attempts: 5 out of 5
+
+===== 4000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	4000000
+Pkt set size:	80000000
+=====================
+
+Try 0: [ticks: 2411371482] 301.000000
+Hash table size was 1233068624
+Try 1: [ticks: 2127654942] 265.000000
+Hash table size was 1233068984
+Try 2: [ticks: 2119777138] 264.000000
+Hash table size was 1233071504
+Try 3: [ticks: 2119871031] 264.000000
+Hash table size was 1233063024
+Try 4: [ticks: 2127968928] 265.000000
+Hash table size was 1233062344
+Cycles per packet: 271.8 [~14.61]
+Processing speed on 2.4 GHz: 8830.02 Kpps
+Processing speed on 3.2 GHz: 11773.36 Kpps
+Successful attempts: 5 out of 5
+
+===== 8000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	8000000
+Pkt set size:	160000000
+=====================
+
+Try 0: [ticks: 4565988600] 285.000000
+Hash table size was 1391032464
+Try 1: [ticks: 4289468361] 268.000000
+Hash table size was 1391050184
+Try 2: [ticks: 4347348894] 271.000000
+Hash table size was 1391038744
+Try 3: [ticks: 4290563007] 268.000000
+Hash table size was 1391048664
+Try 4: [ticks: 4286706441] 267.000000
+Hash table size was 1391048904
+Cycles per packet: 271.8 [~6.73]
+Processing speed on 2.4 GHz: 8830.02 Kpps
+Processing speed on 3.2 GHz: 11773.36 Kpps
+Successful attempts: 5 out of 5
+
+===== 16000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	16000000
+Pkt set size:	320000000
+=====================
+
+Try 0: [ticks: 9483243792] 296.000000
+Hash table size was 1702998904
+Try 1: [ticks: 9455375086] 295.000000
+Hash table size was 1702998384
+Try 2: [ticks: 9458074136] 295.000000
+Hash table size was 1702992904
+Try 3: [ticks: 9475777733] 296.000000
+Hash table size was 1703013984
+Try 4: [ticks: 9156375372] 286.000000
+Hash table size was 1703015264
+Cycles per packet: 293.6 [~3.83]
+Processing speed on 2.4 GHz: 8174.39 Kpps
+Processing speed on 3.2 GHz: 10899.18 Kpps
+Successful attempts: 5 out of 5
+
+===== 32000000 =====
+===== TEST INFO =====
+Max of ip-port combinations:	500000000
+NAT capacity:	65000000
+NAT entry size:	24
+NAT table size:	1560000000
+NAT hash table size:	1073741824
+Packet size:	20
+Packet amount:	32000000
+Pkt set size:	640000000
+=====================
+
+Try 0: [ticks: 19939650804] 311.000000
+Hash table size was 2311391424
+Try 1: [ticks: 19553486991] 305.000000
+Hash table size was 2311459464
+Try 2: [ticks: 19543702287] 305.000000
+Hash table size was 2311463264
+Try 3: [ticks: 19470819522] 304.000000
+Hash table size was 2311384704
+Try 4: [ticks: 19225364115] 300.000000
+Hash table size was 2311331744
+Cycles per packet: 305.0 [~3.52]
+Processing speed on 2.4 GHz: 7868.85 Kpps
+Processing speed on 3.2 GHz: 10491.80 Kpps
+Successful attempts: 5 out of 5
+
